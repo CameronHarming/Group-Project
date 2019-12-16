@@ -1,0 +1,11 @@
+C:\Users\Durza\source\repos\Playlister\Login\bin\Release\Login.exe.config
+C:\Users\Durza\source\repos\Playlister\Login\bin\Release\Login.exe
+C:\Users\Durza\source\repos\Playlister\Login\bin\Release\Login.pdb
+C:\Users\Durza\source\repos\Playlister\Login\bin\Release\MySql.Data.dll
+C:\Users\Durza\source\repos\Playlister\Login\obj\Release\Login.csprojAssemblyReference.cache
+C:\Users\Durza\source\repos\Playlister\Login\obj\Release\Login.Form1.resources
+C:\Users\Durza\source\repos\Playlister\Login\obj\Release\Login.Properties.Resources.resources
+C:\Users\Durza\source\repos\Playlister\Login\obj\Release\Login.csproj.GenerateResource.cache
+C:\Users\Durza\source\repos\Playlister\Login\obj\Release\Login.csproj.CopyComplete
+C:\Users\Durza\source\repos\Playlister\Login\obj\Release\Login.exe
+C:\Users\Durza\source\repos\Playlister\Login\obj\Release\Login.pdb
